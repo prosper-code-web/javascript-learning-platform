@@ -1,0 +1,6 @@
+{
+  "name": "JS HoloLab: 3D JavaScript Learning Space",
+  "description": "An interactive 3D laboratory to learn JavaScript from scratch through tangible visual experiments, live coding, and interactive simulation stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
